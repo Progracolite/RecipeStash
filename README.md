@@ -3,9 +3,8 @@
 > A clean full-stack personal recipe manager to save recipe URLs and ingredients.
 
 ## 🌐 Live Deployment Links
-- 🖥️ **Live Frontend Application:** [https://recipestash-web.onrender.com](https://recipestash-web.onrender.com)
-- ⚙️ **Live Backend API (DRF):** [https://recipestash-api.onrender.com/api/](https://recipestash-api.onrender.com/api/)
-- 🛠️ **Django Admin Portal:** [https://recipestash-api.onrender.com/admin/](https://recipestash-api.onrender.com/admin/)--
+- 🖥️ **Live Frontend Application:** [https://recipestash-web.onrender.com](https://recipestash-frontend.onrender.com)
+- ⚙️ **Live Backend API (DRF):** [https://recipestash-api.onrender.com/api/](https://recipestash.onrender.com)
 
 ## 📌 Project Overview
 
