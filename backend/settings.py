@@ -155,4 +155,5 @@ MAILERS = {
 CORS_ALLOWED_ORIGINS = [
     "https://recipestash-web.onrender.com",
 ]
-CORS_ALLOW_ALL_ORIGINS = False
+CORS_ALLOW_ALL_ORIGINS = True
+CORS_ALLOW_CREDENTIALS = True
